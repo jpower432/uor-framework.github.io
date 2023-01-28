@@ -38,7 +38,7 @@ Link artifacts to create metadata graphs
 
 ### Provide a decentralized storage option
     
-Artifact metadata can be consumed and retrieved deterministically over a distributed network of OCI-compliant registries
+Artifact metadata can be consumed and retrieved deterministically over a federated network of OCI-compliant registries
 
 - Create a smart proxy system for container registries that allows metadata to be stored alongside software artifacts.
 - Implement the ability for the software artifact to self-describe using the stored metadata.
