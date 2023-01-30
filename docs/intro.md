@@ -16,18 +16,21 @@ We believe in technology's transformative potential and are committed to develop
 
 ## Why Emporous?
 
-- Provides a real-time, shared view of artifact metadata
-- Enables organizations to implement trust, compliance and runtime policies based on industry-standard schemas
-- Provides a unified method to store and manage metadata
-- Allows organizations to easily discover software artifacts by searching for attributes within the metadata
+A common challenge for software ecosystems is that they are made up of numerous components, each of which requires its own set of metadata, validation mechanisms, and storage solutions. The presence of unique metadata poses a significant challenge to discoverability and validation as organizations collect, use, and share ever-increasing amounts of data. Emporous strives to provide a consistent way to develop and use shared schemas with a single validation and storage for artifacts and metadata.
+
+Benefits:
+- Provides a real-time, shared view of artifact metadata.
+- Enables organizations to implement trust, compliance and runtime policies based on industry-standard schemas.
+- Provides a unified method to store and manage metadata and artifacts.
+- Allows organizations to easily discover software artifacts by searching for attributes within the metadata.
+- Designed to be decentralized.
 
 ## Project Goals
 
-### Fits within the UOR Framework
-
 ### Standardize software artifact metadata
 
-Support user-provided schemas 
+Support user-provided schemas.
+
 - Normalize the use of industry-standard schemas.
 - Encourage communities to develop and share schemas.
 - Allow for metadata conversions.
@@ -35,21 +38,21 @@ Support user-provided schemas
 
 ### Enhance traceability of software artifacts
 
-Link artifacts to create metadata graphs
+Link artifacts to create metadata graphs.
 
 - Software artifact relationships to other artifacts.
 - Metadata for all artifact can be discovered and verified in the same way.
 
 ### Provide a decentralized storage option
     
-Artifact metadata can be consumed and retrieved deterministically over a federated network of OCI-compliant registries
+Allow artifact metadata to be consumed and retrieved deterministically over a federated network of OCI-compliant registries.
 
 - Create a smart proxy system for container registries that allows metadata to be stored alongside software artifacts.
 - Implement the ability for the software artifact to self-describe using the stored metadata.
 
 ### Backward Compatibility
 
-Support existing ecosystems
+Support existing ecosystems.
 
 - Store metadata for existing artifacts
 - Create tools for artifact migration
