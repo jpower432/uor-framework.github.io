@@ -3,7 +3,7 @@ slug: "intro"
 title: "Intro"
 tags: ["edu","docs","faqs"]
 description: >
-  Frequently Asked Questions
+  What is the UOR Framework
 ---
 
 # FAQ

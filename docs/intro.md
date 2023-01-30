@@ -4,13 +4,15 @@ sidebar_position: 1
 
 # Overview
 
-Emporous is a smart proxy for container registries that enables organizations to easily store, manage, and search software artifact metadata alongside the artifacts themselves. 
-Emporous allows organizations to store critical information, such as trust, compliance, and runtime instructions as metadata and to use this metadata to implement policies and procedures. 
-With Emporous, organizations can easily discover software artifacts by searching for attributes within the metadata, making it easier for them to ensure their software is secure and compliant, without having to manually check each artifact.
+Emporous is an open-source toolkit for interacting with OCI-compliant container registries that is designed based on the concepts from the [Universal Object Reference Framework](UOR%20Framework).
+
+With Emporous, organizations can effortlessly store, organize and search for metadata related to software artifacts along with the artifacts themselves. 
+This enables organizations to keep important information, such as trustworthiness, compliance and operational instructions, as metadata and implement policies and procedures based on it. The ability to search for attributes within the metadata makes it possible for organizations to quickly locate software artifacts, ensuring their security and compliance without manual inspection.
 
 ## Our Vision
 
-Emporous was created to make software distribution easier, faster, and more secure, allowing developers to focus on innovation by simplifying and streamlining the distribution process.
+Through the power of metadata, we hope to enable organizations to easily manage and secure their software assets.
+We believe in technology's transformative potential and are committed to developing solutions that make it simple for organizations to maintain trust, compliance, and efficiency in their software operations.
 
 ## Why Emporous?
 
@@ -20,6 +22,8 @@ Emporous was created to make software distribution easier, faster, and more secu
 - Allows organizations to easily discover software artifacts by searching for attributes within the metadata
 
 ## Project Goals
+
+### Fits within the UOR Framework
 
 ### Standardize software artifact metadata
 
