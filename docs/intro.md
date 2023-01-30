@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Overview
 
-Emporous is an open-source toolkit for interacting with OCI-compliant container registries that is designed based on the concepts from the [Universal Object Reference Framework](UOR%20Framework).
+Emporous is an open-source toolkit for interacting with OCI-compliant container registries that is designed based on the concepts from the [Universal Object Reference Framework](UOR%20Framework/intro.md).
 
 With Emporous, organizations can effortlessly store, organize and search for metadata related to software artifacts along with the artifacts themselves. 
 This enables organizations to keep important information, such as trustworthiness, compliance and operational instructions, as metadata and implement policies and procedures based on it. The ability to search for attributes within the metadata makes it possible for organizations to quickly locate software artifacts, ensuring their security and compliance without manual inspection.
